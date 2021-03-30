@@ -9,3 +9,5 @@ Three different neural networks
   4) 5 CNN layers and 2 fully connected layers
  
 are built and comparison has been made to understand the differences. 
+
+The data can either be obtained from the torchvision dataset module or can be downloaded as a csv file from the following link. https://developer.ibm.com/technologies/artificial-intelligence/data/fashion-mnist/
